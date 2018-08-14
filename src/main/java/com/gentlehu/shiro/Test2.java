@@ -6,4 +6,5 @@ package com.gentlehu.shiro;
 public class Test2 {
     private String name;
     private String sex;
+    private String password;
 }
